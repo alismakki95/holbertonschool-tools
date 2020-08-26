@@ -1,0 +1,1 @@
+this file contains the permission codes for shell 
