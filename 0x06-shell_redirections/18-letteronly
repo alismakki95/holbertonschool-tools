@@ -1,2 +1,2 @@
 #!/bin/bash 
-tail --lines=1 iacta >> iacta  
+ grep '^[[:alpha:]]' /etc/ssh/sshd_config 
